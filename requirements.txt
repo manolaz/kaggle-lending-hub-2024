@@ -2,4 +2,10 @@ polar
 pandas
 numpy
 scikit-learn
+connectorx
+xlsx2csv
+pyarrow
+ipython
+jupyterlab
+plotly
 matplotlib
