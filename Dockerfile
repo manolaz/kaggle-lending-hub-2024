@@ -1,3 +1,3 @@
-FROM python:3.12
+FROM python:3.11.7
 
 RUN pip install -r requirements.txt
