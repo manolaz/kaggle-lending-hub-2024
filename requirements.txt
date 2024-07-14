@@ -1,5 +1,7 @@
 polars
 pandas
+lightgbm
+dask_ml
 seaborn
 numpy
 scikit-learn
